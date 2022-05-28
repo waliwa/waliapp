@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn how to be a Jedi
+          Learn how to be a Jedi - or not
         </a>
       </header>
     </div>
